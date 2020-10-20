@@ -41,5 +41,5 @@ gallery:
 meta:
   description: This is a meta description.
   title: Components Page
-  canonicalLink: art
+  canonicalLink: ""
 ---
