@@ -1,8 +1,8 @@
 ---
 template: HomePage
 slug: ""
-title: DeShana Wooden
-featuredImage: https://ucarecdn.com/6fa58aaa-6912-4d32-8b6c-8d83e4d6138e/
+title: De Shana
+featuredImage: https://ucarecdn.com/48488e8d-1317-494f-8ebf-e7c7d4c658a4/-/crop/1280x963/0,0/-/preview/
 subtitle: |-
   
 
