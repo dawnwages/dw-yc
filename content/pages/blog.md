@@ -1,9 +1,9 @@
 ---
 template: BlogIndex
 slug: blog
-title: Blog Page
-featuredImage: 'https://ucarecdn.com/b6254577-26bf-4b79-aa9b-f3793e2aebdc/'
-subtitle: This is the blog page subtitle.
+title: "Blog "
+featuredImage: https://ucarecdn.com/c64aac16-8063-438a-b926-6473cd16e453/
+subtitle: WiPs and Writings
 meta:
   description: This is a meta description.
   title: Blog Page
